@@ -1,5 +1,5 @@
 import React from "react";
-import Todo from "./ToDo";
+import Todo from "./Todo";
 import Form from "./Form";
 import Api from "./Api";
 import Counter from "./Counter";
