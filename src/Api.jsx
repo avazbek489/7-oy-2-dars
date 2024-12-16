@@ -18,7 +18,7 @@ function Api() {
 
   return (
     <>
-      <div className="flex flex-wrap gap-4 mt-5 mb-2 items-center justify-center">
+      <div className="flex flex-wrap gap-4 mt-5 pb-2 items-center justify-center">
         {users.length > 0 &&
           users.map((value, index) => {
             return (
