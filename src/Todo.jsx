@@ -46,7 +46,7 @@ function Todo() {
 
   return (
     <>
-      <div className="p-5 w-[600px] bg-blue-400 rounded-xl mt-3">
+      <div className="p-5 w-[600px] bg-blue-400 rounded-xl mt-3 mx-auto">
         <h1 className="text-white text-3xl text-center font-bold">ToDo List</h1>
         <form className="flex mt-4 items-center gap-4">
           <input

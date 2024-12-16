@@ -73,7 +73,7 @@ function Form() {
 
   return (
     <>
-      <form className="flex flex-col border-2 p-5 w-[600px] rounded-lg bg-sky-300 gap-3">
+      <form className="mx-auto flex flex-col border-2 p-5 w-[600px] rounded-lg bg-sky-300 gap-3">
         <h1 className="text-3xl text-white text-center font-extrabold">FORM</h1>
         <input
           required

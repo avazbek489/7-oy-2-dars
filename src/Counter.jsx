@@ -20,8 +20,8 @@ function Counter() {
   const total = counter1 + counter2 + counter3;
 
   return (
-    <div className="">
-      <div className="flex flex-wrap w-[800px] items-center justify-center gap-8 bg-lime-500 p-6 rounded-2xl">
+    <div className="mt-5">
+      <div className="flex mx-auto flex-wrap w-[800px] items-center justify-center gap-8 bg-lime-500 p-6 rounded-2xl">
         <div className="flex flex-col items-center border p-3 rounded-lg">
           <h2 className="text-2xl text-white font-semibold">Counter 1</h2>
           <p className="text-xl font-bold text-white">{counter1}</p>
